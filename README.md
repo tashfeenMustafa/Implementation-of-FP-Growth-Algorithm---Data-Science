@@ -9,6 +9,4 @@ Experiment on the following datasets:
 - Retail
 - Pumsb
 
-I've also included the outputs the algorithm after running each of the respective datasets. 
-
 This algorithm takes input the minimum support (min_sup) and the name of the dataset under consideration and returns the average transaction length and the number of transactions in total along with a text file of all the frequent itemsets in the dataset.
